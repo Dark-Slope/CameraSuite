@@ -1,0 +1,93 @@
+# Ignore binaries and intermediate files
+Binaries/
+Intermediate/
+DerivedDataCache/
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore user-specific config files
+*.user
+*.userprefs
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore build files
+*.pdb
+*.obj
+*.log
+*.tlog
+*.tmp
+*.csproj.user
+*.pidb
+*.sln.docstates
+
+# Ignore auto-generated project files
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore Unreal project-specific files
+*.ini
+*.local
+*.llive
+*.dmp
+*.swp
+*.tmp
+*.log
+*.asset
+*.dylib
+*.so
+*.dll
+*.lib
+*.exe
+*.app
+*.apk
+*.ipa
+*.log
+*.gz
+*.7z
+*.zip
+*.rar
+*.tar
+*.tgz
+*.bzip2
+*.xz
+
+# Ignore auto-generated folders
+Saved/
+Build/
+
+# Ignore the user-specific config files
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultGame.ini
+Config/DefaultEditorLayout.ini
+Config/DefaultInput.ini
+Config/DefaultEngine.ini
+Config/DefaultEditorKeyBindings.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditorSettings.ini
+Config/DefaultScalability.ini
+Config/DefaultEditorUserSettings.ini
+
+# Ignore Mac-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.com.apple.timemachine.supported
+.apdisk
