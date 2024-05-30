@@ -2,6 +2,8 @@
 Binaries/
 Intermediate/
 DerivedDataCache/
+/Binaries
+/Intermediate
 
 # Ignore VS Code workspace settings
 .vscode/
